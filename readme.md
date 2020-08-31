@@ -6,7 +6,6 @@ The code should be runnable on Chrome (don't warry about the rest), NPM start or
 
 Stack: React, Redux, Rxjs (or similar  lib), ES6/ES7 or Typescript
 
-The UI is just for demonstration there are no “point” for UX or design. 
 We are looking for best practices, maintainability, knowledge general programming skills/abilities
 
 ## You have this model
