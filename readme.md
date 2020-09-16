@@ -21,14 +21,15 @@ interface Asset {
 
 ## Mock 
 
-Creates 400 random assets, 200 currencies and 200 stocks (just the types is itersting, you don't need real assets) id 1-400
-Create a stream from those 400 assets that fires 1 updates per secound for each asset:
+Creates 400 random assets, 200 currencies and 200 stocks (just the types is iterating, you don't need real assets) id 1-400
+
+Create a stream from those 400 assets that fires 1 update per secound for each asset:
 * price must be changed each update by -1 to 1 and with the current timestamp, the rest will stay the same
 
 you can find the mock at mock.js
-It's exports a mock, rxjs observable with the required stream
+It exports a mock, rxjs observable with the required stream
 
-This is not a starter or boilerplate it's just for confirm that the mock isn't brooken
+This is not a starter or boilerplate it is just to confirm that the mock isn't broken
 You still can boot your project how ever you want
 
 ### see the mock running
