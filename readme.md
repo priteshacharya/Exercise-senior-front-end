@@ -42,6 +42,7 @@ You should see console log with the object on the steam
 ## Create the following app using this stream:
 
 * Show a table with all of the assets
+* The prices should be updating every second as described above
 * Allow to sort for each one of the model fields
 * Allow to filter for each one of the model fields
 
